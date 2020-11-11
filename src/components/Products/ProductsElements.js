@@ -5,6 +5,7 @@ export const ProductContainer = styled.div`
   padding: 5rem calc((100vw - 1300px) / 2);
   background: #150f0f;
   color: #fff;
+  overflow: hidden;
 `;
 
 export const ProductWrapper = styled.div`
